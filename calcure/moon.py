@@ -300,7 +300,6 @@ def get_moon_phase(year, month, day):
     date_str = f"{year}-{month:02}-{day:02}"
     if date_str not in moon_phases:
         return
-        return ""
     if moon_phases[date_str] == "New moon":
         return " 🌑"
     elif moon_phases[date_str] == "First quarter":
