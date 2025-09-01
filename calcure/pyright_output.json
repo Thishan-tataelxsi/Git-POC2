@@ -1,0 +1,1790 @@
+{
+    "version": "1.1.402",
+    "time": "1751535363868",
+    "generalDiagnostics": [
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\__main__.py",
+            "severity": "error",
+            "message": "\"hint\" is possibly unbound",
+            "range": {
+                "start": {
+                    "line": 598,
+                    "character": 52
+                },
+                "end": {
+                    "line": 598,
+                    "character": 56
+                }
+            },
+            "rule": "reportPossiblyUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\__main__.py",
+            "severity": "error",
+            "message": "Operator \"not in\" not supported for types \"int\" and \"str | list[int]\"\n  Operator \"not in\" not supported for types \"int\" and \"str\"",
+            "range": {
+                "start": {
+                    "line": 696,
+                    "character": 15
+                },
+                "end": {
+                    "line": 696,
+                    "character": 52
+                }
+            },
+            "rule": "reportOperatorIssue"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\__main__.py",
+            "severity": "error",
+            "message": "\"weekday\" is possibly unbound",
+            "range": {
+                "start": {
+                    "line": 731,
+                    "character": 15
+                },
+                "end": {
+                    "line": 731,
+                    "character": 22
+                }
+            },
+            "rule": "reportPossiblyUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\__main__.py",
+            "severity": "error",
+            "message": "Operator \"in\" not supported for types \"int\" and \"str | list[int]\"\n  Operator \"in\" not supported for types \"int\" and \"str\"",
+            "range": {
+                "start": {
+                    "line": 738,
+                    "character": 11
+                },
+                "end": {
+                    "line": 738,
+                    "character": 47
+                }
+            },
+            "rule": "reportOperatorIssue"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\calendars.py",
+            "severity": "error",
+            "message": "Import \"jdatetime\" could not be resolved",
+            "range": {
+                "start": {
+                    "line": 9,
+                    "character": 11
+                },
+                "end": {
+                    "line": 9,
+                    "character": 20
+                }
+            },
+            "rule": "reportMissingImports"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\calendars.py",
+            "severity": "error",
+            "message": "Import \"jdatetime\" could not be resolved",
+            "range": {
+                "start": {
+                    "line": 16,
+                    "character": 11
+                },
+                "end": {
+                    "line": 16,
+                    "character": 20
+                }
+            },
+            "rule": "reportMissingImports"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\calendars.py",
+            "severity": "error",
+            "message": "Import \"jdatetime\" could not be resolved",
+            "range": {
+                "start": {
+                    "line": 35,
+                    "character": 19
+                },
+                "end": {
+                    "line": 35,
+                    "character": 28
+                }
+            },
+            "rule": "reportMissingImports"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\calendars.py",
+            "severity": "error",
+            "message": "Import \"jdatetime\" could not be resolved",
+            "range": {
+                "start": {
+                    "line": 49,
+                    "character": 19
+                },
+                "end": {
+                    "line": 49,
+                    "character": 28
+                }
+            },
+            "rule": "reportMissingImports"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EXIT\" is unbound",
+            "range": {
+                "start": {
+                    "line": 42,
+                    "character": 49
+                },
+                "end": {
+                    "line": 42,
+                    "character": 57
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_HIGH\" is unbound",
+            "range": {
+                "start": {
+                    "line": 61,
+                    "character": 62
+                },
+                "end": {
+                    "line": 61,
+                    "character": 76
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_LOW\" is unbound",
+            "range": {
+                "start": {
+                    "line": 66,
+                    "character": 62
+                },
+                "end": {
+                    "line": 66,
+                    "character": 75
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_RESET\" is unbound",
+            "range": {
+                "start": {
+                    "line": 71,
+                    "character": 62
+                },
+                "end": {
+                    "line": 71,
+                    "character": 77
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_DONE\" is unbound",
+            "range": {
+                "start": {
+                    "line": 76,
+                    "character": 62
+                },
+                "end": {
+                    "line": 76,
+                    "character": 76
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_PRIVACY\" is unbound",
+            "range": {
+                "start": {
+                    "line": 83,
+                    "character": 62
+                },
+                "end": {
+                    "line": 83,
+                    "character": 79
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_DEL\" is unbound",
+            "range": {
+                "start": {
+                    "line": 90,
+                    "character": 62
+                },
+                "end": {
+                    "line": 90,
+                    "character": 75
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_REN\" is unbound",
+            "range": {
+                "start": {
+                    "line": 97,
+                    "character": 62
+                },
+                "end": {
+                    "line": 97,
+                    "character": 75
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_NEW_TITLE\" is unbound",
+            "range": {
+                "start": {
+                    "line": 101,
+                    "character": 67
+                },
+                "end": {
+                    "line": 101,
+                    "character": 80
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_NEW_TITLE\" is unbound",
+            "range": {
+                "start": {
+                    "line": 101,
+                    "character": 99
+                },
+                "end": {
+                    "line": 101,
+                    "character": 112
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_MV\" is unbound",
+            "range": {
+                "start": {
+                    "line": 106,
+                    "character": 62
+                },
+                "end": {
+                    "line": 106,
+                    "character": 74
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_MV_TO\" is unbound",
+            "range": {
+                "start": {
+                    "line": 111,
+                    "character": 77
+                },
+                "end": {
+                    "line": 111,
+                    "character": 92
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_MV_TO_D\" is unbound",
+            "range": {
+                "start": {
+                    "line": 116,
+                    "character": 34
+                },
+                "end": {
+                    "line": 116,
+                    "character": 51
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_GOTO\" is unbound",
+            "range": {
+                "start": {
+                    "line": 142,
+                    "character": 69
+                },
+                "end": {
+                    "line": 142,
+                    "character": 77
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_GOTO_D\" is unbound",
+            "range": {
+                "start": {
+                    "line": 151,
+                    "character": 26
+                },
+                "end": {
+                    "line": 151,
+                    "character": 36
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_DATE\" is unbound",
+            "range": {
+                "start": {
+                    "line": 164,
+                    "character": 26
+                },
+                "end": {
+                    "line": 164,
+                    "character": 40
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_TITLE\" is unbound",
+            "range": {
+                "start": {
+                    "line": 168,
+                    "character": 63
+                },
+                "end": {
+                    "line": 168,
+                    "character": 78
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_TITLE\" is unbound",
+            "range": {
+                "start": {
+                    "line": 168,
+                    "character": 97
+                },
+                "end": {
+                    "line": 168,
+                    "character": 112
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_DATE\" is unbound",
+            "range": {
+                "start": {
+                    "line": 174,
+                    "character": 26
+                },
+                "end": {
+                    "line": 174,
+                    "character": 40
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_TITLE\" is unbound",
+            "range": {
+                "start": {
+                    "line": 178,
+                    "character": 63
+                },
+                "end": {
+                    "line": 178,
+                    "character": 78
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_TITLE\" is unbound",
+            "range": {
+                "start": {
+                    "line": 178,
+                    "character": 97
+                },
+                "end": {
+                    "line": 178,
+                    "character": 112
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_REP\" is unbound",
+            "range": {
+                "start": {
+                    "line": 180,
+                    "character": 64
+                },
+                "end": {
+                    "line": 180,
+                    "character": 77
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_FR\" is unbound",
+            "range": {
+                "start": {
+                    "line": 181,
+                    "character": 66
+                },
+                "end": {
+                    "line": 181,
+                    "character": 78
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_IMP\" is unbound",
+            "range": {
+                "start": {
+                    "line": 193,
+                    "character": 49
+                },
+                "end": {
+                    "line": 193,
+                    "character": 62
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EXIT\" is unbound",
+            "range": {
+                "start": {
+                    "line": 200,
+                    "character": 49
+                },
+                "end": {
+                    "line": 200,
+                    "character": 57
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EXIT\" is unbound",
+            "range": {
+                "start": {
+                    "line": 209,
+                    "character": 49
+                },
+                "end": {
+                    "line": 209,
+                    "character": 57
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_HIGH\" is unbound",
+            "range": {
+                "start": {
+                    "line": 225,
+                    "character": 62
+                },
+                "end": {
+                    "line": 225,
+                    "character": 76
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_LOW\" is unbound",
+            "range": {
+                "start": {
+                    "line": 230,
+                    "character": 62
+                },
+                "end": {
+                    "line": 230,
+                    "character": 75
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_RESET\" is unbound",
+            "range": {
+                "start": {
+                    "line": 235,
+                    "character": 62
+                },
+                "end": {
+                    "line": 235,
+                    "character": 77
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_DONE\" is unbound",
+            "range": {
+                "start": {
+                    "line": 240,
+                    "character": 62
+                },
+                "end": {
+                    "line": 240,
+                    "character": 76
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_PRIVACY\" is unbound",
+            "range": {
+                "start": {
+                    "line": 247,
+                    "character": 62
+                },
+                "end": {
+                    "line": 247,
+                    "character": 79
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_DEL\" is unbound",
+            "range": {
+                "start": {
+                    "line": 254,
+                    "character": 62
+                },
+                "end": {
+                    "line": 254,
+                    "character": 75
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_REN\" is unbound",
+            "range": {
+                "start": {
+                    "line": 261,
+                    "character": 62
+                },
+                "end": {
+                    "line": 261,
+                    "character": 75
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_NEW_TITLE\" is unbound",
+            "range": {
+                "start": {
+                    "line": 265,
+                    "character": 67
+                },
+                "end": {
+                    "line": 265,
+                    "character": 80
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_NEW_TITLE\" is unbound",
+            "range": {
+                "start": {
+                    "line": 265,
+                    "character": 99
+                },
+                "end": {
+                    "line": 265,
+                    "character": 112
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_MV\" is unbound",
+            "range": {
+                "start": {
+                    "line": 270,
+                    "character": 62
+                },
+                "end": {
+                    "line": 270,
+                    "character": 74
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_MV_TO\" is unbound",
+            "range": {
+                "start": {
+                    "line": 275,
+                    "character": 77
+                },
+                "end": {
+                    "line": 275,
+                    "character": 92
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"event_id\" is possibly unbound",
+            "range": {
+                "start": {
+                    "line": 277,
+                    "character": 48
+                },
+                "end": {
+                    "line": 277,
+                    "character": 56
+                }
+            },
+            "rule": "reportPossiblyUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_MV_TO_D\" is unbound",
+            "range": {
+                "start": {
+                    "line": 280,
+                    "character": 34
+                },
+                "end": {
+                    "line": 280,
+                    "character": 51
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"event_id\" is possibly unbound",
+            "range": {
+                "start": {
+                    "line": 283,
+                    "character": 47
+                },
+                "end": {
+                    "line": 283,
+                    "character": 55
+                }
+            },
+            "rule": "reportPossiblyUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_TITLE\" is unbound",
+            "range": {
+                "start": {
+                    "line": 305,
+                    "character": 59
+                },
+                "end": {
+                    "line": 305,
+                    "character": 74
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_TITLE\" is unbound",
+            "range": {
+                "start": {
+                    "line": 305,
+                    "character": 93
+                },
+                "end": {
+                    "line": 305,
+                    "character": 108
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_TITLE\" is unbound",
+            "range": {
+                "start": {
+                    "line": 311,
+                    "character": 59
+                },
+                "end": {
+                    "line": 311,
+                    "character": 74
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_TITLE\" is unbound",
+            "range": {
+                "start": {
+                    "line": 311,
+                    "character": 93
+                },
+                "end": {
+                    "line": 311,
+                    "character": 108
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_REP\" is unbound",
+            "range": {
+                "start": {
+                    "line": 313,
+                    "character": 60
+                },
+                "end": {
+                    "line": 313,
+                    "character": 73
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_FR\" is unbound",
+            "range": {
+                "start": {
+                    "line": 314,
+                    "character": 62
+                },
+                "end": {
+                    "line": 314,
+                    "character": 74
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EVENT_IMP\" is unbound",
+            "range": {
+                "start": {
+                    "line": 321,
+                    "character": 49
+                },
+                "end": {
+                    "line": 321,
+                    "character": 62
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_GOTO\" is unbound",
+            "range": {
+                "start": {
+                    "line": 328,
+                    "character": 69
+                },
+                "end": {
+                    "line": 328,
+                    "character": 77
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_GOTO_D\" is unbound",
+            "range": {
+                "start": {
+                    "line": 337,
+                    "character": 26
+                },
+                "end": {
+                    "line": 337,
+                    "character": 36
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EXIT\" is unbound",
+            "range": {
+                "start": {
+                    "line": 354,
+                    "character": 49
+                },
+                "end": {
+                    "line": 354,
+                    "character": 57
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EXIT\" is unbound",
+            "range": {
+                "start": {
+                    "line": 363,
+                    "character": 49
+                },
+                "end": {
+                    "line": 363,
+                    "character": 57
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_TM_ADD\" is unbound",
+            "range": {
+                "start": {
+                    "line": 378,
+                    "character": 62
+                },
+                "end": {
+                    "line": 378,
+                    "character": 72
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_TM_RESET\" is unbound",
+            "range": {
+                "start": {
+                    "line": 386,
+                    "character": 62
+                },
+                "end": {
+                    "line": 386,
+                    "character": 74
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_TS_DEAD_ADD\" is unbound",
+            "range": {
+                "start": {
+                    "line": 393,
+                    "character": 62
+                },
+                "end": {
+                    "line": 393,
+                    "character": 77
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_TS_DEAD_DATE\" is unbound",
+            "range": {
+                "start": {
+                    "line": 397,
+                    "character": 73
+                },
+                "end": {
+                    "line": 397,
+                    "character": 89
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_TS_DEAD_DEL\" is unbound",
+            "range": {
+                "start": {
+                    "line": 403,
+                    "character": 62
+                },
+                "end": {
+                    "line": 403,
+                    "character": 77
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_TS_HIGH\" is unbound",
+            "range": {
+                "start": {
+                    "line": 410,
+                    "character": 62
+                },
+                "end": {
+                    "line": 410,
+                    "character": 73
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_TS_LOW\" is unbound",
+            "range": {
+                "start": {
+                    "line": 415,
+                    "character": 62
+                },
+                "end": {
+                    "line": 415,
+                    "character": 72
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_TS_RES\" is unbound",
+            "range": {
+                "start": {
+                    "line": 420,
+                    "character": 62
+                },
+                "end": {
+                    "line": 420,
+                    "character": 72
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_TS_DONE\" is unbound",
+            "range": {
+                "start": {
+                    "line": 425,
+                    "character": 62
+                },
+                "end": {
+                    "line": 425,
+                    "character": 73
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_TS_PRIVACY\" is unbound",
+            "range": {
+                "start": {
+                    "line": 432,
+                    "character": 62
+                },
+                "end": {
+                    "line": 432,
+                    "character": 76
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_TS_DEL\" is unbound",
+            "range": {
+                "start": {
+                    "line": 439,
+                    "character": 62
+                },
+                "end": {
+                    "line": 439,
+                    "character": 72
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_TS_MOVE\" is unbound",
+            "range": {
+                "start": {
+                    "line": 444,
+                    "character": 67
+                },
+                "end": {
+                    "line": 444,
+                    "character": 78
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_TS_MOVE_TO\" is unbound",
+            "range": {
+                "start": {
+                    "line": 447,
+                    "character": 69
+                },
+                "end": {
+                    "line": 447,
+                    "character": 83
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_TS_EDIT\" is unbound",
+            "range": {
+                "start": {
+                    "line": 450,
+                    "character": 62
+                },
+                "end": {
+                    "line": 450,
+                    "character": 73
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "Operator \"+\" not supported for \"None\"",
+            "range": {
+                "start": {
+                    "line": 453,
+                    "character": 35
+                },
+                "end": {
+                    "line": 453,
+                    "character": 41
+                }
+            },
+            "rule": "reportOptionalOperand"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "Operator \"+\" not supported for \"None\"",
+            "range": {
+                "start": {
+                    "line": 454,
+                    "character": 48
+                },
+                "end": {
+                    "line": 454,
+                    "character": 54
+                }
+            },
+            "rule": "reportOptionalOperand"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_TS_TOG\" is unbound",
+            "range": {
+                "start": {
+                    "line": 459,
+                    "character": 62
+                },
+                "end": {
+                    "line": 459,
+                    "character": 72
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_TS_SUB\" is unbound",
+            "range": {
+                "start": {
+                    "line": 464,
+                    "character": 62
+                },
+                "end": {
+                    "line": 464,
+                    "character": 72
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_TS_TITLE\" is unbound",
+            "range": {
+                "start": {
+                    "line": 467,
+                    "character": 68
+                },
+                "end": {
+                    "line": 467,
+                    "character": 80
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_TS_TITLE\" is unbound",
+            "range": {
+                "start": {
+                    "line": 467,
+                    "character": 99
+                },
+                "end": {
+                    "line": 467,
+                    "character": 111
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_TS_EDT_ALL\" is unbound",
+            "range": {
+                "start": {
+                    "line": 491,
+                    "character": 49
+                },
+                "end": {
+                    "line": 491,
+                    "character": 63
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_TS_EDT_ALL\" is unbound",
+            "range": {
+                "start": {
+                    "line": 495,
+                    "character": 49
+                },
+                "end": {
+                    "line": 495,
+                    "character": 63
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_TS_EDT_ALL\" is unbound",
+            "range": {
+                "start": {
+                    "line": 499,
+                    "character": 49
+                },
+                "end": {
+                    "line": 499,
+                    "character": 63
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_TS_EDT_ALL\" is unbound",
+            "range": {
+                "start": {
+                    "line": 503,
+                    "character": 49
+                },
+                "end": {
+                    "line": 503,
+                    "character": 63
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_TS_DEL_ALL\" is unbound",
+            "range": {
+                "start": {
+                    "line": 507,
+                    "character": 49
+                },
+                "end": {
+                    "line": 507,
+                    "character": 63
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_TS_IM\" is unbound",
+            "range": {
+                "start": {
+                    "line": 513,
+                    "character": 49
+                },
+                "end": {
+                    "line": 513,
+                    "character": 58
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EXIT\" is unbound",
+            "range": {
+                "start": {
+                    "line": 530,
+                    "character": 49
+                },
+                "end": {
+                    "line": 530,
+                    "character": 57
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EXIT\" is unbound",
+            "range": {
+                "start": {
+                    "line": 539,
+                    "character": 49
+                },
+                "end": {
+                    "line": 539,
+                    "character": 57
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\controls.py",
+            "severity": "error",
+            "message": "\"MSG_EXIT\" is unbound",
+            "range": {
+                "start": {
+                    "line": 554,
+                    "character": 45
+                },
+                "end": {
+                    "line": 554,
+                    "character": 53
+                }
+            },
+            "rule": "reportUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\data.py",
+            "severity": "warning",
+            "message": "Import \"dateutil.rrule\" could not be resolved from source",
+            "range": {
+                "start": {
+                    "line": 7,
+                    "character": 5
+                },
+                "end": {
+                    "line": 7,
+                    "character": 19
+                }
+            },
+            "rule": "reportMissingModuleSource"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\data.py",
+            "severity": "error",
+            "message": "Argument of type \"rrule | rruleset\" cannot be assigned to parameter \"rrule\" of type \"_RRule\" in function \"rrule\"\n  Type \"rrule | rruleset\" is not assignable to type \"_RRule\"\n    \"rruleset\" is not assignable to \"rrule\"",
+            "range": {
+                "start": {
+                    "line": 392,
+                    "character": 27
+                },
+                "end": {
+                    "line": 392,
+                    "character": 31
+                }
+            },
+            "rule": "reportArgumentType"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\data.py",
+            "severity": "error",
+            "message": "\"skip_months\" is possibly unbound",
+            "range": {
+                "start": {
+                    "line": 431,
+                    "character": 32
+                },
+                "end": {
+                    "line": 431,
+                    "character": 43
+                }
+            },
+            "rule": "reportPossiblyUnboundVariable"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\loaders.py",
+            "severity": "warning",
+            "message": "Import \"icalendar\" could not be resolved from source",
+            "range": {
+                "start": {
+                    "line": 6,
+                    "character": 7
+                },
+                "end": {
+                    "line": 6,
+                    "character": 16
+                }
+            },
+            "rule": "reportMissingModuleSource"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\loaders.py",
+            "severity": "error",
+            "message": "Import \"holidays\" could not be resolved",
+            "range": {
+                "start": {
+                    "line": 184,
+                    "character": 19
+                },
+                "end": {
+                    "line": 184,
+                    "character": 27
+                }
+            },
+            "rule": "reportMissingImports"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\loaders.py",
+            "severity": "error",
+            "message": "Import \"holidays\" could not be resolved",
+            "range": {
+                "start": {
+                    "line": 185,
+                    "character": 17
+                },
+                "end": {
+                    "line": 185,
+                    "character": 25
+                }
+            },
+            "rule": "reportMissingImports"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\loaders.py",
+            "severity": "error",
+            "message": "\"error\" is not a known attribute of module \"urllib\"",
+            "range": {
+                "start": {
+                    "line": 284,
+                    "character": 22
+                },
+                "end": {
+                    "line": 284,
+                    "character": 27
+                }
+            },
+            "rule": "reportAttributeAccessIssue"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\loaders.py",
+            "severity": "error",
+            "message": "\"error\" is not a known attribute of module \"urllib\"",
+            "range": {
+                "start": {
+                    "line": 287,
+                    "character": 22
+                },
+                "end": {
+                    "line": 287,
+                    "character": 27
+                }
+            },
+            "rule": "reportAttributeAccessIssue"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\loaders.py",
+            "severity": "error",
+            "message": "\"date\" is not a known attribute of \"None\"",
+            "range": {
+                "start": {
+                    "line": 438,
+                    "character": 51
+                },
+                "end": {
+                    "line": 438,
+                    "character": 55
+                }
+            },
+            "rule": "reportOptionalMemberAccess"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\sample3.py",
+            "severity": "warning",
+            "message": "Unsupported escape sequence in string literal",
+            "range": {
+                "start": {
+                    "line": 1,
+                    "character": 19
+                },
+                "end": {
+                    "line": 1,
+                    "character": 21
+                }
+            },
+            "rule": "reportInvalidStringEscapeSequence"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\sample3.py",
+            "severity": "error",
+            "message": "Import \"sample\" could not be resolved",
+            "range": {
+                "start": {
+                    "line": 3,
+                    "character": 7
+                },
+                "end": {
+                    "line": 3,
+                    "character": 13
+                }
+            },
+            "rule": "reportMissingImports"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\screen.py",
+            "severity": "error",
+            "message": "\"day\" is not a known attribute of module \"datetime\"",
+            "range": {
+                "start": {
+                    "line": 24,
+                    "character": 30
+                },
+                "end": {
+                    "line": 24,
+                    "character": 33
+                }
+            },
+            "rule": "reportAttributeAccessIssue"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\screen.py",
+            "severity": "error",
+            "message": "\"month\" is not a known attribute of module \"datetime\"",
+            "range": {
+                "start": {
+                    "line": 25,
+                    "character": 32
+                },
+                "end": {
+                    "line": 25,
+                    "character": 37
+                }
+            },
+            "rule": "reportAttributeAccessIssue"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\screen.py",
+            "severity": "error",
+            "message": "\"year\" is not a known attribute of module \"datetime\"",
+            "range": {
+                "start": {
+                    "line": 26,
+                    "character": 31
+                },
+                "end": {
+                    "line": 26,
+                    "character": 35
+                }
+            },
+            "rule": "reportAttributeAccessIssue"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\screen.py",
+            "severity": "error",
+            "message": "Module cannot be used as a type",
+            "range": {
+                "start": {
+                    "line": 70,
+                    "character": 22
+                },
+                "end": {
+                    "line": 70,
+                    "character": 30
+                }
+            },
+            "rule": "reportGeneralTypeIssues"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\screen.py",
+            "severity": "error",
+            "message": "Import \"jdatetime\" could not be resolved",
+            "range": {
+                "start": {
+                    "line": 73,
+                    "character": 19
+                },
+                "end": {
+                    "line": 73,
+                    "character": 28
+                }
+            },
+            "rule": "reportMissingImports"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\screen.py",
+            "severity": "error",
+            "message": "Type \"date\" is not assignable to return type \"Module(\"datetime\")\"\n  Type \"date\" is not assignable to type \"Module(\"datetime\")\"",
+            "range": {
+                "start": {
+                    "line": 76,
+                    "character": 19
+                },
+                "end": {
+                    "line": 76,
+                    "character": 65
+                }
+            },
+            "rule": "reportReturnType"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\screen.py",
+            "severity": "error",
+            "message": "Module cannot be used as a type",
+            "range": {
+                "start": {
+                    "line": 79,
+                    "character": 23
+                },
+                "end": {
+                    "line": 79,
+                    "character": 31
+                }
+            },
+            "rule": "reportGeneralTypeIssues"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\screen.py",
+            "severity": "error",
+            "message": "Import \"jdatetime\" could not be resolved",
+            "range": {
+                "start": {
+                    "line": 82,
+                    "character": 19
+                },
+                "end": {
+                    "line": 82,
+                    "character": 28
+                }
+            },
+            "rule": "reportMissingImports"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\screen.py",
+            "severity": "error",
+            "message": "Type \"date\" is not assignable to return type \"Module(\"datetime\")\"\n  Type \"date\" is not assignable to type \"Module(\"datetime\")\"",
+            "range": {
+                "start": {
+                    "line": 85,
+                    "character": 19
+                },
+                "end": {
+                    "line": 85,
+                    "character": 40
+                }
+            },
+            "rule": "reportReturnType"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\screen.py",
+            "severity": "error",
+            "message": "\"month\" is not a known attribute of module \"datetime\"",
+            "range": {
+                "start": {
+                    "line": 150,
+                    "character": 32
+                },
+                "end": {
+                    "line": 150,
+                    "character": 37
+                }
+            },
+            "rule": "reportAttributeAccessIssue"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\screen.py",
+            "severity": "error",
+            "message": "\"year\" is not a known attribute of module \"datetime\"",
+            "range": {
+                "start": {
+                    "line": 151,
+                    "character": 31
+                },
+                "end": {
+                    "line": 151,
+                    "character": 35
+                }
+            },
+            "rule": "reportAttributeAccessIssue"
+        },
+        {
+            "file": "c:\\Users\\42814\\Todo\\calcure\\calcure\\screen.py",
+            "severity": "error",
+            "message": "\"day\" is not a known attribute of module \"datetime\"",
+            "range": {
+                "start": {
+                    "line": 152,
+                    "character": 30
+                },
+                "end": {
+                    "line": 152,
+                    "character": 33
+                }
+            },
+            "rule": "reportAttributeAccessIssue"
+        }
+    ],
+    "summary": {
+        "filesAnalyzed": 27,
+        "errorCount": 108,
+        "warningCount": 3,
+        "informationCount": 0,
+        "timeInSec": 2.84
+    }
+}
+
