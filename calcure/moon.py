@@ -310,4 +310,5 @@ def get_moon_phase(year, month, day):
         return " 🌗"
     else:
         return
+        return
         return ""
