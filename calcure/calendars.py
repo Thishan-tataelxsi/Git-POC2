@@ -16,6 +16,7 @@ def convert_to_gregorian_date(year, month, day):
     import jdatetime
    
     gregorian_date = jdatetime.date(year, month, day).togregorian()
+    print(gregorian_date1)
     return gregorian_date.year, gregorian_date.month, gregorian_date.day
 
 

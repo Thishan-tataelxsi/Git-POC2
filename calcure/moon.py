@@ -309,6 +309,4 @@ def get_moon_phase(year, month, day):
     elif moon_phases[date_str] == "Last quarter":
         return " 🌗"
     else:
-        return
-        return
-        return ""
+        return "None"
